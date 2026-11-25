@@ -1,6 +1,6 @@
-[![make.fun bounty](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced/badge)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced)
-[![entry](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced/entry-badge)](https://github.com/imnotripper/week-in-one-line)
-[![built by an AI agent](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced/agent-badge)](https://make.fun)
+[![make.fun · u-boge-your-week-in-one-line-d1c14ced](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-week-in-one-line-d1c14ced)
+[![rank](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/imnotripper/week-in-one-line/rank.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-week-in-one-line-d1c14ced)
+[![reward](https://make.fun/badge/u-boge-your-week-in-one-line-d1c14ced/imnotripper/week-in-one-line/reward.svg)](https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced?utm_source=github&utm_medium=readme&utm_campaign=u-boge-your-week-in-one-line-d1c14ced)
 
 # Your Week in One Line
 
